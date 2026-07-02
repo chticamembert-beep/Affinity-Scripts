@@ -1,6 +1,6 @@
 # Affinity Scripts
 
-Automation scripts for **Affinity by Canva** (v3.2.2+), written using the Affinity SDK. Built to replicate and extend workflows previously only possible in Adobe Illustrator.
+Automation scripts for **Affinity** (v3.2.2+), written using the Affinity SDK.
 
 ---
 
