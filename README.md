@@ -1,6 +1,6 @@
 # Affinity Scripts
 
-Automation scripts for **Affinity** (v3.2.2+), written using Affinity SDK.
+Automation scripts for Affinity using SDK
 
 ---
 
